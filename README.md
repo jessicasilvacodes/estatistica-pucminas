@@ -1,2 +1,3 @@
-# estatistica-pucminas
-Repositório para projetos e exercícios de estatística com Python do curso de 'Especialização em Ciência de Dados' da PucMinas EAD.
+# Exercícios e Projetos de Estatística com Python 
+
+Repositório para projetos e exercícios de estatística com Python do curso de CIÊNCIA DE DADOS APLICADA À SAÚDE da PUC Minas.
